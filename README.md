@@ -1,5 +1,10 @@
 BigBrother
 =============
+> [!NOTE]
+> `README.md` is Due for a Revamp.
+> The Next Commit will contain a complete revamp of `README.md` and an Up to date version of Big Brother. This Commit will come out soon.
+
+
 [![Build Status](https://travis-ci.org/BigBrotherTeam/BigBrother.svg?branch=master)](https://travis-ci.org/BigBrotherTeam/BigBrother)
 [![Download](https://api.bintray.com/packages/bigbrotherteam/BigBrother/BigBrother/images/download.svg)](https://bintray.com/bigbrotherteam/BigBrother/BigBrother/_latestVersion)
 [![license](https://img.shields.io/github/license/BigBrotherTeam/BigBrother.svg)](https://github.com/BigBrotherTeam/BigBrother/blob/master/LICENSE)
