@@ -4,7 +4,7 @@ BigBrother
 > This Is Up to Date with Minecraft!
 
 
-[![Build Status](https://travis-ci.org/BigBrotherHelpers/BigBrother.svg?branch=master)](https://travis-ci.org/BigBrotherTeam/BigBrother)
+[![Build Status](https://travis-ci.org/BigBrotherHelpers/BigBrother.svg?branch=master)](https://travis-ci.org/BigBrotherHelpers/BigBrother)
 [![Download](https://api.bintray.com/packages/bigbrotherhelpers/BigBrotherHelpers/BigBrother/images/download.svg)](https://bintray.com/bigbrotherhelpers/BigBrotherhelpers/BigBrother/_latestVersion)
 [![license](https://img.shields.io/github/license/BigBrotherHelpers/BigBrother.svg)](https://github.com/BigBrotherHelpers/BigBrother/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/BigBrotherHelpers/BigBrother.svg)](https://github.com/BigBrotherHelpers/BigBrother/graphs/contributors)
