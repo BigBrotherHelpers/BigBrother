@@ -1,26 +1,27 @@
 BigBrother
 =============
 > [!NOTE]
-> `README.md` is Due for a Revamp.
-> The Next Commit will contain a complete revamp of `README.md` and an Up to date version of Big Brother. This Commit will come out soon.
+> This Is Up to Date with Minecraft!
 
 
-[![Build Status](https://travis-ci.org/BigBrotherTeam/BigBrother.svg?branch=master)](https://travis-ci.org/BigBrotherTeam/BigBrother)
-[![Download](https://api.bintray.com/packages/bigbrotherteam/BigBrother/BigBrother/images/download.svg)](https://bintray.com/bigbrotherteam/BigBrother/BigBrother/_latestVersion)
-[![license](https://img.shields.io/github/license/BigBrotherTeam/BigBrother.svg)](https://github.com/BigBrotherTeam/BigBrother/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/BigBrotherTeam/BigBrother.svg)](https://github.com/BigBrotherTeam/BigBrother/graphs/contributors)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/BigBrotherTeam/BigBrother.svg)](http://isitmaintained.com/project/BigBrotherTeam/BigBrother "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/BigBrotherTeam/BigBrother.svg)](http://isitmaintained.com/project/BigBrotherTeam/BigBrother "Percentage of issues still open")
+[![Build Status](https://travis-ci.org/BigBrotherHelpers/BigBrother.svg?branch=master)](https://travis-ci.org/BigBrotherTeam/BigBrother)
+[![Download](https://api.bintray.com/packages/bigbrotherhelpers/BigBrotherHelpers/BigBrother/images/download.svg)](https://bintray.com/bigbrotherhelpers/BigBrotherhelpers/BigBrother/_latestVersion)
+[![license](https://img.shields.io/github/license/BigBrotherHelpers/BigBrother.svg)](https://github.com/BigBrotherHelpers/BigBrother/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/BigBrotherHelpers/BigBrother.svg)](https://github.com/BigBrotherHelpers/BigBrother/graphs/contributors)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/BigBrotherHelpers/BigBrother.svg)](http://isitmaintained.com/project/BigBrotherHelpers/BigBrother "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/BigBrotherHelpers/BigBrother.svg)](http://isitmaintained.com/project/BigBrotherHelpers/BigBrother "Percentage of issues still open")
 
-Welcome to BigBrother, a [shoghicp project that was abandoned](https://github.com/shoghicp/bigbrother) and taken back by the BigBrotherTeam!
+Welcome to BigBrother, a [shoghicp project that was abandoned](https://github.com/shoghicp/bigbrother) and taken back by the BigBrotherHelpers!
 -------------
 
 ### Watch Video working on PocketMine-MP!
-[![](http://img.youtube.com/vi/4oaYIW8YuNg/0.jpg)](http://www.youtube.com/watch?v=4oaYIW8YuNg)
+[![](http://img.youtube.com/vi/4oaYIW8YuNg/0.jpg)](http://www.youtube.com/watch?v=4oaYIW8YuNg) 
+> [!NOTE]
+> This Video is A Snapshot of an Older Version and when a newer video is made available, it will be displayed
 
 #### Notice
 * This plugin supports use with PocketMine-MP (pmmp). Using spoons will cause many bugs & problems.
-* This plugin supports Minecraft version 1.12.2 ***ONLY.***
+* This plugin supports Minecraft version (Fix in development) ***ONLY.***
   Currently any other newer versions are experimental, please refer to the last section of this document.
 
 #### Features implemented
@@ -44,6 +45,6 @@ These package flavors below are EXPERIMENTAL which support newer version of Mine
 Currently, there are a lot of problems and not stable yet.
 Any patches are welcome, and well-debugged and well-described issues are also welcome.
 
-* 1.16.4  
-[![Build Status](https://travis-ci.org/BigBrotherTeam/BigBrother.svg?branch=1.16.4)](https://travis-ci.org/BigBrotherTeam/BigBrother)
-[![Download](https://api.bintray.com/packages/bigbrotherteam/BigBrother/BigBrother-1.16.4/images/download.svg)](https://bintray.com/bigbrotherteam/BigBrother/BigBrother-1.16.4/_latestVersion)
+* 1.21.60 
+[![Build Status](https://travis-ci.org/BigBrotherHelpers/BigBrother.svg?branch=1.21.60)](https://travis-ci.org/BigBrotherHelpers/BigBrother)
+[![Download](https://api.bintray.com/packages/bigbrotherhelpers/BigBrother/BigBrother-1.21.60/images/download.svg)](https://bintray.com/bigbrotherhelpers/BigBrother/BigBrother-1.21.60/_latestVersion)
